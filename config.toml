@@ -6,6 +6,9 @@ copyright = "Emmanuel Raymond"
 googleAnalytics = "XXX"
 disqusShortname = "XXX"
 
+[blackfriday] 
+    hrefTargetBlank = true
+
 [Privacy]
 
 [Privacy.disqus]
