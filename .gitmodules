@@ -1,7 +1,0 @@
-[submodule "themes/ghostwriter"]
-path = themes/ghostwriter
-url = https://github.com/jbub/ghostwriter
-[submodule "blog"]
-	path = blog
-	url = https://github.com/peoray/blog.git
-	branch = master
