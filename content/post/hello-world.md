@@ -1,7 +1,8 @@
-___
+---
 title: "Hello World"
-date: 2018-12-21T02:49:07+01:00
+date: 2018-06-19T02:49:07+01:00
 description: "My very first article"
+# slug: "/hello"
 draft: true
 ---
 
