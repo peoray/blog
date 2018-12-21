@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"
 title = "Emmanuel Raymond"
-theme = "ghostwriter"
+theme = ""
 languageCode = "en-us"
 copyright = "Emmanuel Raymond"
 googleAnalytics = "XXX"
