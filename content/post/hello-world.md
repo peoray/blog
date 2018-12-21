@@ -6,7 +6,7 @@ description: "My very first article"
 draft: true
 ---
 
-Welcome to my first blog post! I just felt that it would be customary for me to use a timeless greeting all techies and geeks would be used to seeing. I’ve been meaning to start a blog on Medium for a very long time, but I tend to procrastinate, one of the many reasons I am starting this blog. Finally, today I am writing my first ever article.
+Welcome to my first blog post! I just felt that it would be customary for me to use a timeless greeting all techies and geeks would be used to seeing. I’ve been meaning to start a blog for a very long time, but I tend to procrastinate, one of the many reasons I am starting this blog. Finally, today I am writing my first ever article.
 
 # Why a Blog?
 
