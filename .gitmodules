@@ -1,0 +1,5 @@
+[submodule "themes/ghostwriter"]
+path = themes/ghostwriter
+url = https://github.com/jbub/ghostwriter
+ignore = dirty
+
