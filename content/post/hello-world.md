@@ -1,8 +1,8 @@
 ---
-title: "Hello World"
-date: 2018-06-19T02:49:07+01:00
-description: "My very first article"
-image: "https://cdn-images-1.medium.com/max/1000/1*wEhudGopS8EU4UKaah33rw.jpeg#center"
+title: 'Hello World'
+date: 2017-06-19T02:49:07+01:00
+description: 'My very first article'
+image: 'https://cdn-images-1.medium.com/max/1000/1*wEhudGopS8EU4UKaah33rw.jpeg#center'
 draft: false
 ---
 
@@ -16,14 +16,14 @@ So over the years, I have read a lot! A lot of it goes in and doesn’t stick. S
 
 In summary, here is a list of why I want to blog:
 
-* [One of the best ways to learn](http://psychology.about.com/od/educationalpsychology/tp/effective-learning.htm) is to Teach What You’ve Learned to Another Person (TWYLAP).
+- [One of the best ways to learn](http://psychology.about.com/od/educationalpsychology/tp/effective-learning.htm) is to Teach What You’ve Learned to Another Person (TWYLAP).
 
-* A public journey of my experience through life.
-Improve my writing skills.
+- A public journey of my experience through life.
+  Improve my writing skills.
 
-* To keep my own journal.
+- To keep my own journal.
 
-* To market myself, show who I am, and what my interests and beliefs are.
+- To market myself, show who I am, and what my interests and beliefs are.
 
 # What to Blog About?
 

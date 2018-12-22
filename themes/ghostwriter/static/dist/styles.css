@@ -225,12 +225,10 @@ table tr { border-bottom: 1px dotted #aeadad; }
 
 /* CUSTOM CSS STYLES GOES HERE */
 
-/* Custome styles */
-
 img {
     margin: auto;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 img[src$='#center'] {
@@ -254,6 +252,11 @@ img[src$='#floatright'] {
     /* margin: 0.7rem; */
     /* this margin is totally up to you */
     /* whatever else styles you fancy here */
+}
+
+twitter-widget {
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
 }
 
 .twitter-tweet-rendered {
