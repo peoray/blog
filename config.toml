@@ -4,7 +4,7 @@ theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Emmanuel Raymond"
 googleAnalytics = "XXX"
-disqusShortname = "XXX"
+disqusShortname = "peoray"
 
 [blackfriday] 
     hrefTargetBlank = true

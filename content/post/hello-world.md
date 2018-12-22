@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2018-06-19T02:49:07+01:00
 description: "My very first article"
-image: "https://cdfdigital.com.br/wp-content/uploads/2015/09/a-origem-do-hello-world-840x430.jpg"
+image: "https://cdn-images-1.medium.com/max/1000/1*wEhudGopS8EU4UKaah33rw.jpeg#center"
 draft: false
 ---
 
