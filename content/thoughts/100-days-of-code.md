@@ -3,6 +3,7 @@ title: "#100DaysOfCode — Let’s do this!"
 description: "A challenge to help me get into the habit of coding daily"
 date: 2018-01-11T16:48:53+01:00
 draft: false
+tags: ["100DaysOfCode"]
 image: "https://cdn-images-1.medium.com/max/1000/1*xAFAiAxqZVrOVLBTo9tf6w.jpeg"
 ---
 

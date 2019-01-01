@@ -3,6 +3,7 @@ title: "January 2018: Growth"
 description: "Commitment is key!"
 date: 2018-01-31T17:01:13+01:00
 draft: false
+tags: ["January"]
 image: "https://res.cloudinary.com/peoray/image/upload/v1528382964/1_csqpgoE3UUyh-aUsqycOfw_w9m5cg.jpg"
 ---
 

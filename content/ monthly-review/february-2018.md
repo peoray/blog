@@ -3,6 +3,7 @@ title: "February 2018: Overcoming Challenges, Determination and Patience"
 description: "There may be tough times, but the difficulties which you face will make you more determined to achieve your objectives and to win against all the odds."
 date: 2018-02-28T17:25:30+01:00
 draft: false
+tags: ["February"]
 image: "https://res.cloudinary.com/peoray/image/upload/v1528383247/1_uOlxCoXq1faNmKA-3ie2Bg_mfgqss.jpg"
 ---
 

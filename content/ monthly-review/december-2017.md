@@ -1,8 +1,9 @@
 ---
 title: "December 2017: Struggles, Birthday and Getting Sassy"
 description: "The struggle became real for me and I clocked 22!"
-date: 2017-12-31T12:29:33+01:00
+date: 2017-12-30T12:29:33+01:00
 draft: false
+tags: ["December"]
 image: "https://res.cloudinary.com/peoray/image/upload/v1528382714/1_Rz7h8QSq6-I42cI6hPEbRw_ushkfv.jpg"
 ---
 

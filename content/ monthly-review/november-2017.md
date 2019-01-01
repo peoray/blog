@@ -1,8 +1,9 @@
 ---
-title: "November 2017: Finding Purpose Redefining Myself"
+title: "November 2017: Finding Purpose and Redefining Myself"
 description: "November was the month I got serious and immersed myself fully into coding."
 date: 2017-11-30T15:50:13+01:00
 draft: false
+tags: ["November"]
 image: "https://cdn-images-1.medium.com/max/800/1*TxihcotZptW_SRWW-kIbhQ.jpeg"
 ---
 

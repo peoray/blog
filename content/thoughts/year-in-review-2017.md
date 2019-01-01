@@ -3,6 +3,7 @@ title: "Year In Review: 2017"
 description: "The year I decided to take control of my life!"
 date: 2017-12-31T16:40:49+01:00
 draft: false
+tags: ["Year-In-Review", "Reflections"]
 image: "http://drinkingtea.com/wp-content/uploads/2017/01/10442206-bonne-annee-2017-exemples-de-message-texte-sms-et-citations-de-meilleurs-voeux-2017.jpg"
 ---
 

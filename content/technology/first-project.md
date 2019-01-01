@@ -3,6 +3,7 @@ title: "Building my First Project: Numbers Facts Machine"
 description: "Experience creating my first ever project!"
 date: 2018-02-08T17:17:49+01:00
 draft: false
+tags: ["Project"]
 image: "https://res.cloudinary.com/peoray/image/upload/v1528383984/1_wJ-kimDeb6CFX2GrXcmPAA_noqjxe.gif"
 ---
 

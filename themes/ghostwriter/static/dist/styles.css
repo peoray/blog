@@ -265,12 +265,12 @@ twitter-widget {
     margin-right: auto;
 }
 
-p {
-    margin-bottom: 15px;
-}
-
 body {
     font-size: 20px;
+}
+
+p {
+    margin-bottom: 15px;
 }
 
 h1,
@@ -343,7 +343,17 @@ blockquote p {
     /* font-style: italic; */
 }
 
+pre {
+
+}
+
+pre code {
+    background: none;
+    font-weight: 600;
+}
+
 code {
+    padding: 5px 10px;
     color: #424242;
     background: rgba(201, 201, 193, .5);
 }
@@ -358,7 +368,8 @@ code {
 
 .share-on {
     color: #424242;
-    font-size: 16px;
+    font-size: 18px;
+    text-transform: capitalize;
 }
 
 .post-stub-date::before {
@@ -369,3 +380,8 @@ a {
     color: #3B5998;
     outline: 0;
 }
+
+.container {
+    max-width: 1000px;
+}
+

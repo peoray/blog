@@ -2,6 +2,7 @@
 title: 'Hello World'
 date: 2017-06-19T02:49:07+01:00
 description: 'My very first article'
+tags: ["Blogging"]
 image: 'https://cdn-images-1.medium.com/max/1000/1*wEhudGopS8EU4UKaah33rw.jpeg#center'
 draft: false
 ---

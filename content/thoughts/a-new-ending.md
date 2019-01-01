@@ -3,6 +3,7 @@ title: "A New Ending"
 description: "I’m not giving up. I’m just starting over."
 date: 2017-11-13T00:52:30+01:00
 draft: false
+tags: ["Perseverance"]
 image: "https://images.pexels.com/photos/459846/pexels-photo-459846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940#center"
 ---
 
