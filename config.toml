@@ -1,9 +1,9 @@
-baseURL = "https://objective-hopper-90aeb3.netlify.com/"
+baseURL = "https://peoray-blog.netlify.com/"
 title = "Emmanuel Raymond"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Emmanuel Raymond"
-googleAnalytics = "XXX"
+googleAnalytics = "UA-131778153-1"
 disqusShortname = "peoray"
 
 [blackfriday] 
