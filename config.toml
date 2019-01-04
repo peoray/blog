@@ -8,11 +8,12 @@ disqusShortname = "peoray"
 
 [blackfriday] 
     hrefTargetBlank = true
+    plainIDAnchors = true
 
 [Privacy]
 
 [Privacy.disqus]
-    disable = false
+    disable = true
 
 [Privacy.googleAnalytics]
     anonymizeIP = true
