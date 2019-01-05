@@ -362,3 +362,7 @@ a {
 .container {
     max-width: 1000px;
 }
+
+.comments {
+    margin-top: 50px;
+}
