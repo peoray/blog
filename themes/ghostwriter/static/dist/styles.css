@@ -367,6 +367,7 @@ code {
 }
 
 .share-on {
+    /* display: block; */
     color: #424242;
     font-size: 18px;
     text-transform: capitalize;
@@ -384,4 +385,3 @@ a {
 .container {
     max-width: 1000px;
 }
-
