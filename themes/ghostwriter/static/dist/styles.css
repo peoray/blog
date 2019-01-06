@@ -410,3 +410,19 @@ input[type="submit"] {
 input {
     line-height: normal;
 }
+
+@media only screen and (max-width: 800px) {
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .sub-input {
+        width: 14rem;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .sub-input {
+        width: 14rem;
+    }
+}
