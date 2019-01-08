@@ -6,9 +6,20 @@ copyright = "Emmanuel Raymond"
 googleAnalytics = "UA-131778153-1"
 disqusShortname = "peoray"
 
+
+pygmentsCodeFences = true
+# PygmentsStyle = "monokai"
+# pygmentsUseClasses = true
+# pygmentsCodefencesGuessSyntax = true
+# pygmentsUseClassic = true 
+
+
 [blackfriday] 
     hrefTargetBlank = true
     plainIDAnchors = true
+    extension = [
+        'hardLineBreak'
+    ]
 
 [Privacy]
 

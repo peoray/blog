@@ -320,19 +320,16 @@ blockquote p {
     /* font-style: italic; */
 }
 
-pre {
-
-}
-
 pre code {
     background: none;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 code {
-    padding: 5px 10px;
-    color: #424242;
-    background: rgba(201, 201, 193, .5);
+    color: #fff;
+    /* padding: 500px 100px; */
+    /* color: #424242;
+    background: rgba(201, 201, 193, .5); */
 }
 
 .button-square,
@@ -425,4 +422,10 @@ input {
     .sub-input {
         width: 14rem;
     }
+}
+
+figcaption p {
+    margin-top: -40px;
+    text-align: center;
+    font-size: 16px;
 }
