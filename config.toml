@@ -1,4 +1,4 @@
-baseURL = "https://peoray-blog.netlify.com/"
+baseURL = "https://peoray.com/"
 title = "Emmanuel Raymond"
 theme = "ghostwriter"
 languageCode = "en-us"
