@@ -1,7 +1,7 @@
 ---
 title: "How to display password in a form input"
 description: "How to use JavaScript to display or hide a password in a form."
-date: 2018-12-21T18:06:49+01:00
+date: 2018-07-20T18:06:49+01:00
 draft: false
 tags: ["JavaScript"]
 image: ""

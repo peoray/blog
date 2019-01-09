@@ -1,7 +1,7 @@
 ---
 title: "I asked my first StackOverflow question "
 description: "A first timer’s experience on StackOverflow"
-date: 2018-12-21T18:04:42+01:00
+date: 2018-05-18T18:04:42+01:00
 draft: false
 tags: ["StackOverflow"]
 ---
