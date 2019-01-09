@@ -11,27 +11,24 @@ image: "https://images.pexels.com/photos/459846/pexels-photo-459846.jpeg?auto=co
 >
 > --- James R. Sherman
 
-Been a while I posted here. My last post was actually my introductory post where I announced I was gonna post a new article per week. Turned out it was another case of easier said than done.
+Been a while I posted here. My [last post]({{< ref "hello-world.md" >}}) was actually my introductory post where I announced I was gonna post a new article per week. Turned out it was another case of easier said than done.
 Anyways, I last coded three months ago until recently, due to the fact my laptop was stolen.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So I finished my final exams &amp; was celebrating only to realise my laptop was missing. Apparently some1 burgled my room &amp; made away with it. <a href="https://t.co/dCRfuwkoTo">pic.twitter.com/dCRfuwkoTo</a></p>&mdash; Emmanuel Raymond (@super_raay) <a href="https://twitter.com/super_raay/status/896258274303062016?ref_src=twsrc%5Etfw">August 12, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+{{< tweet 896258274303062016 >}}
 
 Well, the good news is, I found it but let’s not get into that story.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ahhh, the look of sublime text 3 is so beautiful after almost 3 months without coding! <a href="https://t.co/RjVqaKKW3m">pic.twitter.com/RjVqaKKW3m</a></p>&mdash; Emmanuel Raymond (@super_raay) <a href="https://twitter.com/super_raay/status/926234547871731717?ref_src=twsrc%5Etfw">November 2, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 926234547871731717 >}}
 
 
-Three months is really a long time for a beginner to stop coding. People tend to give up and not bother anymore during this period and it is often listed as a bad coding habit. Well, I didn’t give up. I managed to stay up to date with 
+Three months is a long time for a beginner to stop coding. People tend to give up and not bother anymore during this period and it is often listed as a bad coding habit. Well, I didn’t give up. I managed to stay up to date with 
 trends through tweets, articles and newsletters.
 
-Perhaps, this compulsory break actually is a blessing in disguise. This period made me think about lots of stuff and I learnt a lot about myself. This month will make a year I started learning how to code, looking back I have really come a long way but something just doesn’t feel right and I dare say it wasn’t a year of fulfillment but one of confusion, lack of planning and many days spent daydreaming about being the next Mark Zuckerberg.
+Perhaps, this compulsory break actually is a blessing in disguise. This period made me think about lots of stuff and I learnt a lot about myself. This month will make a year I started learning how to code, looking back I have come a long way but something doesn’t feel right and I dare say it wasn’t a year of fulfillment but one of confusion, lack of planning and many days spent daydreaming about being the next Mark Zuckerberg.
 
-![Mark Zuc](https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948#center) 
+{{< figure src="https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948#center" alt="Mr. bean gif"  caption="[gif source](https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948)">}}
 
-The period I lost my laptop made me realize I didn’t have enough practical experience to back up the theoretical knowledge and it kinda left me feeling empty. During this period, I decided to come up with a solid plan, goal and execution road map with much emphasis on practice of course. This means I’m starting right at the very basics again, although this time it will be more like a review nevertheless, I would have to go back and learn about HTML all over again and practice with it.
+The period I lost my laptop made me realize I didn’t have enough practical experience to back up the theoretical knowledge and it kinda left me feeling empty. During this period, I decided to come up with a solid plan, goal and execution road map with much emphasis on practice of course. This means I’m starting right at the very basics again, although this time it will be more like a review still, I would have to go back and learn about HTML all over again and practice with it.
 
 > Every new beginning comes from some other beginning’s end
 >
@@ -43,10 +40,13 @@ Before I started learning to code, I had become disappointed with my creation-to
 
 Fast forward after my internship, I got back to school and began to look around for guys that were into tech. Most people I found were “programmers” and one of them convinced me to give it a try. Like everyone starting out, I was scared because I took programming in my second year and I hated it. I decided to try anyways, if I didn’t like it, I could always go back to Networking. So I started learning how to code using [W3Schools](https://www.w3schools.com/) which was recommended to me starting with their HTML tutorial section. I became hooked and since then, programming became a passion and a hobby.
 
-So far, my programming hobby hasn’t resulted in all that much output. I made simple websites by following tutorials. While this is a good way to learn, it isn’t a good way to become better as you will eventually need to [get out of the coding tutorial rut](https://medium.freecodecamp.org/how-to-dig-yourself-out-of-the-coding-tutorial-rut-7d3b2232f234?source=user_profile---------6----------------) and [start practising on your own](https://dev.to/inidaname/newbie-developers-dont-trust-those-tutorials-1ib).
+So far, my programming hobby hasn’t resulted in all that much output. I made simple websites by following tutorials. While this is a good way to learn, it isn’t a good way to become better as you will need to [get out of the coding tutorial rut](https://medium.freecodecamp.org/how-to-dig-yourself-out-of-the-coding-tutorial-rut-7d3b2232f234?source=user_profile---------6----------------) and [start practising on your own](https://dev.to/inidaname/newbie-developers-dont-trust-those-tutorials-1ib).
 
-![image2](https://i.pinimg.com/736x/e9/47/13/e9471399cd642d4222a5348e0740f039--starting-over-quotes-new-beginning-quotes.jpg#center)
 
-I hope to do things right this time around and this is a start. My goal is to become better both as a person and as a developer. To build lots of stuff to solve problems. It is simply to immerse myself in the act of creation, to challenge myself, to attempt something difficult — if for no other reason than to finish it. I also hope to get back into the habit of blogging again to document my journey. Also, to build [my personal brand as a developer](https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217) and practice [learning how to learn](https://medium.freecodecamp.org/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d) to become better at my skills.
+{{< figure src="https://i.pinimg.com/736x/e9/47/13/e9471399cd642d4222a5348e0740f039--starting-over-quotes-new-beginning-quotes.jpg#center" alt="motivation quote"  caption="[Image source](https://i.pinimg.com/736x/e9/47/13/e9471399cd642d4222a5348e0740f039--starting-over-quotes-new-beginning-quotes.jpg)">}}
 
-![image3](https://i.pinimg.com/736x/98/29/61/9829614be3a612db8c27bfb6a4eabd15--fresh-start-quotes-starting-over-quotes.jpg#center)
+
+I want to do things right this time around and this is a start. My goal is to become better both as a person and as a developer. To build lots of stuff to solve problems. It is to immerse myself in the act of creation, to challenge myself, to attempt something difficult — if for no other reason than to finish it. I also hope to get back into the habit of blogging again to document my journey. Also, to build [my personal brand as a developer](https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217) and practice [learning how to learn](https://medium.freecodecamp.org/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d) to become better at my skills.
+
+
+{{< figure src="https://i.pinimg.com/736x/98/29/61/9829614be3a612db8c27bfb6a4eabd15--fresh-start-quotes-starting-over-quotes.jpg#center" alt="motivation quote"  caption="[Image source](https://i.pinimg.com/736x/98/29/61/9829614be3a612db8c27bfb6a4eabd15--fresh-start-quotes-starting-over-quotes.jpg)">}}

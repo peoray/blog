@@ -13,6 +13,8 @@ pygmentsCodeFences = true
 # pygmentsCodefencesGuessSyntax = true
 # pygmentsUseClassic = true 
 
+enableInlineShortcodes = true
+
 
 [blackfriday] 
     hrefTargetBlank = true

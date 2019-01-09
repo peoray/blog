@@ -39,11 +39,15 @@ First off I wanted to form input to clear when data has been returned after inpu
 
 Instead of this:
 
-`document.getElementById('id').reset();`
+```js
+document.getElementById('id').reset();
+```
 
 Do this:
 
-`document.getElementById('id').value = '';`
+```js
+document.getElementById('id').value = '';
+```
 
 This will set the form input text field to an empty string and make the field blank.
 

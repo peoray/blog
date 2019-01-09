@@ -322,14 +322,17 @@ blockquote p {
 
 pre code {
     background: none;
+    /* word-break: break-all; */
+    word-wrap: break-word;
     /* font-weight: 600; */
 }
 
 code {
+    /* color: rgb(211, 211, 211); */
     color: #fff;
-    /* padding: 500px 100px; */
-    /* color: #424242;
-    background: rgba(201, 201, 193, .5); */
+    padding: 5px 10px;
+    /* color: #424242; */
+    background: rgba(53, 53, 52, 0.5);
 }
 
 .button-square,
@@ -425,7 +428,7 @@ input {
 }
 
 figcaption p {
-    margin-top: -40px;
+    margin-top: -35px;
     text-align: center;
     font-size: 16px;
 }

@@ -9,8 +9,6 @@ image: "http://drinkingtea.com/wp-content/uploads/2017/01/10442206-bonne-annee-2
 
 2107 has been a great year despite many ups and downs, I’m excited about everything that happened and especially the progress I made personally in various aspects of my life. I also managed to learn more about myself and how I handle adversity and setbacks in my life.
 
-# Big Wins
-
 ### Graduation
 
 Overall, 2017 was an average year. My biggest achievement has to be my graduating from college. I studied Electrical and Electronics Engineering and it was a great relief to finally come to the end of my program. Huge win for me on that one.

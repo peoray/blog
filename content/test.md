@@ -58,11 +58,15 @@ app.get(path, callback)
 ```
 
 ```js
-ReactDOM.render(<Button/>, document.getElementById('root'))
+ReactDOM.render(<Button \/>, document.getElementById('root'))
 ```
 
 ```html
 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+```
+
+```js
+document.getElementById('id').value = '';
 ```
 
 {{< gist spf13 7896402 >}}
@@ -75,3 +79,4 @@ ReactDOM.render(<Button/>, document.getElementById('root'))
 
 
 {{< figure src="https://res.cloudinary.com/lauragift/image/upload/v1545069379/Screen_Shot_2018-12-17_at_6.55.36_PM_uepe00.png" caption="Alomo Biters by [hfhhf](www.google.com)">}}
+
