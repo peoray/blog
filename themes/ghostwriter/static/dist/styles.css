@@ -327,6 +327,14 @@ pre code {
     /* font-weight: 600; */
 }
 
+pre {
+    border: none;
+}
+
+.code-toolbar {
+    margin-bottom: 25px;
+}
+
 code {
     /* color: rgb(211, 211, 211); */
     padding: 4px 8px;
@@ -446,4 +454,8 @@ a.token.property {
 
 pre[class*="language-"] {
     font-size: 18px;
+}
+
+.box-shadow img{
+    box-shadow: 0 0 2px rgba(0,0,0,.5);
 }

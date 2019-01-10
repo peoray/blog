@@ -13,7 +13,7 @@ image: "https://cdn-images-1.medium.com/max/800/1*TxihcotZptW_SRWW-kIbhQ.jpeg"
 
 This article is credited to [Bolu Ajibawo](https://medium.com/@Bolu_Ajibawo) whose monthly series of writing about his challenges and struggles inspired me to start doing same. This way, I get to share my journey to become a world-class developer with you and also share other areas of my life that are worth sharing.
 
-In my [last article]({{< ref "thoughts/a-new-ending.md" >}}), I wrote about starting over again because I felt my first approach wasn’t going according to plan and after a forced lengthy period without a computer, I had a deep reflection and decided to do all I can to make it right this time.
+In my [last article]({{< ref "/thoughts/a-new-ending.md" >}}), I wrote about starting over again because I felt my first approach wasn’t going according to plan and after a forced lengthy period without a computer, I had a deep reflection and decided to do all I can to make it right this time.
 
 So this month has really been definitive for me. Clearer goals and things going according to plan. I set out with becoming comfortable with stuff that was uncomfortable to me. So how did November 2017 go?
 
