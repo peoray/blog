@@ -6,6 +6,9 @@ copyright = "Emmanuel Raymond"
 googleAnalytics = "UA-131778153-1"
 disqusShortname = "peoray"
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 
 pygmentsCodeFences = true
 # PygmentsStyle = "monokai"
