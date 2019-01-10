@@ -321,18 +321,18 @@ blockquote p {
 }
 
 pre code {
-    background: none;
+    /* background: none; */
     /* word-break: break-all; */
-    word-wrap: break-word;
+    /* word-wrap: break-word; */
     /* font-weight: 600; */
 }
 
 code {
     /* color: rgb(211, 211, 211); */
-    color: #fff;
-    padding: 5px 10px;
-    /* color: #424242; */
-    background: rgba(53, 53, 52, 0.5);
+    /* color: #fff; */
+    /* padding: 5px 10px; */
+    color: #424242;
+    /* background: rgba(53, 53, 52, 0.5); */
 }
 
 .button-square,
@@ -431,4 +431,20 @@ figcaption p {
     margin-top: -35px;
     text-align: center;
     font-size: 16px;
+}
+
+a.token.property {
+    color: #f92672;
+}
+
+.token.space::before {
+    content: '';
+}
+
+.token.lf::before {
+    content: '';
+}
+
+pre[class*="language-"] {
+    font-size: 18px;
 }

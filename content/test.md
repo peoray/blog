@@ -7,76 +7,37 @@ tags: []
 image: ""
 ---
 
-{{< highlight js >}}
-var hi = 'hi';
-{{</ highlight >}}
-
-
-{{< highlight css >}}
-.div {
-    line-height: 3px;
-    }
-{{</ highlight >}}
-
-
-{{< highlight js "linenos=inline" >}}
-const foo = 23;
-if(foo) {
-    return true;
+<pre>
+<code class="language-css">
+body {
+font-family: "Noto Sans", sans-serif;
 }
-{{</ highlight >}}
+</code>
+</pre>
 
+<pre><code class="language-css">p { color: red }</code></pre>
 
-
-
-```js
-const foo = 23;
+<pre>
+<code class="language-js link-code">
 if(foo) {
-    return true;
+   return true
 }
-```
-
-{{< highlight js "linenos=inline">}}
-$ npm install express --save
-{{</ highlight >}}
+console.log('helllo world');
+</code>
+</pre>
 
 ```js
-console.log('hello')
+// don't do this
+app.get('/')
+const fo = 'hello';
 ```
 
-```js
-const express = require('express');
-const app = express();
-```
+I have an <code lang="markup">index</code>
 
-{{< highlight js >}}
-import './styles.scss'
-{{</highlight >}}
-
-```js
-app.get(path, callback)
-```
-
-```js
-ReactDOM.render(<Button \/>, document.getElementById('root'))
-```
-
-```html
-<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
-```
-
-```js
-document.getElementById('id').value = '';
-```
-
-{{< gist spf13 7896402 >}}
-
-{{< gist spf13 7896402 "img.html" >}}
-
-{{< param description >}}
-
-{{< tweet 877500564405444608 >}}
-
-
-{{< figure src="https://res.cloudinary.com/lauragift/image/upload/v1545069379/Screen_Shot_2018-12-17_at_6.55.36_PM_uepe00.png" caption="Alomo Biters by [hfhhf](www.google.com)">}}
-
+{{< highlight html "linenos=inline" >}}
+<section id="main">
+  <div>
+   <h1 id="title">Hello World</h1>
+  </div>
+</section>
+{{< /highlight >}}
