@@ -30,9 +30,9 @@ sections:
   create: all
   match: "*"
 upload_dir: ''
-public_path: ''
+public_path: " https://res.cloudinary.com/peoray/image/upload"
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
