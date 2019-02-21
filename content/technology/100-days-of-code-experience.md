@@ -7,7 +7,7 @@ tags: ["100DaysOfCode"]
 image: "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 ---
 
-I completed my #100DaysOfCode challenge on 20th April 2018. In case you are wondering what it is, I wrote an article when I started the challenge. The whole idea of the challenge is that you publicly commit to coding every day for 100 days. During this period, my experience has both been overwhelming and underwhelming. In this article, I hope to highlight my experience and also to offer advice to others doing it to make it more effective and gain the best out of it.
+I completed my #100DaysOfCode challenge on 20th April 2018. In case you are wondering what it is, I wrote an [article]({{< ref "100-days-of-code.md">}}) when I started the challenge. The whole idea of the challenge is that you publicly commit to coding every day for 100 days. During this period, my experience has both been overwhelming and underwhelming. In this article, I hope to highlight my experience and also to offer advice to others doing it to make it more effective and gain the best out of it.
 
 ## My Journey
 
