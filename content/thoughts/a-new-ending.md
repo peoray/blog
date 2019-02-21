@@ -14,11 +14,9 @@ image: "https://images.pexels.com/photos/459846/pexels-photo-459846.jpeg?auto=co
 Been a while I posted here. My [last post]({{< ref "hello-world.md" >}}) was actually my introductory post where I announced I was gonna post a new article per week. Turned out it was another case of easier said than done.
 Anyways, I last coded three months ago until recently, due to the fact my laptop was stolen.
 
-{{< tweet 896258274303062016 >}}
 
 Well, the good news is, I found it but let’s not get into that story.
 
-{{< tweet 926234547871731717 >}}
 
 
 Three months is a long time for a beginner to stop coding. People tend to give up and not bother anymore during this period and it is often listed as a bad coding habit. Well, I didn’t give up. I managed to stay up to date with 
