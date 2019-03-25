@@ -316,7 +316,7 @@ blockquote p {
 }
 
 .post-stub-date {
-    font-size: 16px;
+    font-size: 13px;
     /* font-style: italic; */
 }
 
@@ -358,7 +358,7 @@ code {
 }
 
 .post-stub-date:before {
-    content: "- " !important;
+    content: " ";
 }
 
 a {
