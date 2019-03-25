@@ -49,6 +49,6 @@ I am grateful for my close friends, Tony, Andrew, Zoe, Ada, Oluchi and all the i
 
 2018 has taught me a lot of things. I learnt about friendship, collaboration, team-work, selflessness, self-love, how to be deliberate. 
 
-Here’s to a year ahead. 🍻
+Here’s to a great year ahead. 🍻
 
-![2019 Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfT3_KS_CWFl9iAHxFWieusz96CekLBexRYeSIdC3hYhtJKpe8)
+<!-- ![2019 Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfT3_KS_CWFl9iAHxFWieusz96CekLBexRYeSIdC3hYhtJKpe8) -->
