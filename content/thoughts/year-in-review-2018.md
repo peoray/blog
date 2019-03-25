@@ -19,7 +19,7 @@ I didn't spend much time on building projects as I would have loved. Although I 
 
 ### Internship
 
-This took a major chunk of the year, from April to November. I was part of LearnFactory's first ever internship program. Apart from the obvious task of learning new skills and improving my already known skills, the best thing that happened to me at LearnFactory was the amazing people I met and became friends with. They made the whole experience worth it and I'm only grateful to have such kind of people in my life. I wrote about my whole experience [here]({{< ref "my-experiences-at-learnfactory.md">}})
+This took a major chunk of the year, from April to November. I was part of LearnFactory's first ever internship program. Apart from the obvious task of learning new skills and improving my already known skills, the best thing that happened to me at LearnFactory was the amazing people I met and became friends with. They made the whole experience worth it and I'm only grateful to have such kind of people in my life. 
 
 ### Reading 📖
 
