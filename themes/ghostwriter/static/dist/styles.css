@@ -358,7 +358,7 @@ code {
 }
 
 .post-stub-date:before {
-    content: " - " !important;
+    content: "- " !important;
 }
 
 a {
