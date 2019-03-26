@@ -1,29 +1,29 @@
 ---
 title: "Things I Don't Know as of 2018 (in Programming)"
 description: ""
-date: 2019-03-25T11:33:58+01:00
-draft: true
+date: 2019-01-05T11:33:58+01:00
+draft: false
 tags: []
-image: ""
+image: "https://res.cloudinary.com/peoray/image/upload/v1553616586/Things_I_Don_t_Know_as_of_2018_in_Programming_owvrsh.png"
 ---
 
-I have been writing code for over two years and looking back, it amazes the amount of things I don't know yet. It's a rat-race trying to catch up with the industry, the more you try hard to catch up, the further you realize you are behind. I want to use this opportunity to list out some programming technologies I don't know.
+I have been writing code for over two years and looking back, it amazes me the number of things I don't know yet. It's a rat-race trying to catch up with the industry, the more you try hard to catch up, the further you realize you are behind. I want to use this opportunity to list out some programming technologies I don't know.
 
-This is kind of a journal for me to see what I don't know as of 2018. This by no means undermines my capabilitites as a web developer but only shows I'm humble enough to admit I don't know something _yet_
+This is kind of a journal for me to see what I don't know as of 2018. This by no means undermines my capabilities as a web developer but only shows I'm humble enough to admit waht I don't know something _yet_
 
 - **Programming Languages:** I know only one programming language JavaScript. I don't know any other programming languages such as Go, Python, Php, etc.
 
-- **Linux, Unix and Bash commands:** Ironically, I use a linux machine but I only manage to do the basic stuffs on the terminal, the rest I just google, copy and paste. I have never done SSH before.
+- **Linux, Unix and Bash command:** Ironically, I use a Linux machine but I only manage to do the basic stuff on the terminal, the rest I just google, copy and paste. I have never done SSH before.
 
-- **Webpack/Bundlers:** I have only heard of Webpack and what it can do but I have not used it. Never bothered myself with Parcel or Gulp.
+- **Webpack/Bundlers:** I have only heard of Webpack and what it can do but I have not used it. Never bothered with Parcel or Gulp.
 
-- **JavaScript Frameworks:** Till date, I have only worked with Vue. I don't know React or React Native. I have never written Angular before, don't even know how the syntax looks like.
+- **JavaScript Frameworks:** To date, I have only worked with Vue. I don't really know React or React Native. I have never written Angular before, don't even know how the syntax looks like.
 
-- **GraphQL:** This has got to be hottest topic in web development right now and I know jack about it!
+- **GraphQL:** This has got to be the hottest topic in web development right now and I know jack about it!
 
-- **Databases:** I have never used any relational DBs such as mySQL, PostGress, Sequelize and even non-relational DBs such as DocumentDB, Cassandra, Coachbase, HBase, Redis, and Neo4j. There are so many Database I can't even list them all. The only databases I have used are Firebase and MongoDB.
+- **Databases:** I have never used any relational DBs such as MySQL, PostgreSQL, Sequelize and even non-relational DBs such as DocumentDB, Cassandra, Coachbase, HBase, Redis, and Neo4j. There are so many Databases I can't even list them all. The only databases I have used are Firebase and MongoDB.
 
-- **Node Frameworks:** Even though, I'm more backend inclined and write only javaScript, I have only used Express. I haven't used Koa, Hapi, Sails or any other node framweork to write my backend code. Also, not familiar with Vue framework like Nuxt.
+- **Node Frameworks:** Even though I'm more backend inclined, I have only used Express. I haven't used Koa, Hapi, Sails or any other node framework to write my backend code. Also, not familiar with Vue framework like Nuxt.
 
 - **TypeScript:** Alongside GraphQL, this is also another topic that got lots of people talking. The only thing I know about Typescript is that it adds static typing to JavaScript, I don't even know what that means.
 
@@ -33,22 +33,20 @@ This is kind of a journal for me to see what I don't know as of 2018. This by no
 
 - **Web Sockets:**  I haven't used it before. I only know what it's used for.
 
-- **Devops, Docker:** Devops is another huge field on it's own and not something I intend to get into for now. Containers, Kubernetes, Azure are just buzzwords I hear everyday but don't really know what they are used for. I haven't tried Continous Integration or Continous Deployment as well.
+- **Devops, Docker:** DevOps is another huge field on its own and not something I intend to get into for now. Containers, Kubernetes, Azure are just buzzwords I hear every day but don't really know what they are used for. I haven't tried Continous Integration or Continous Deployment as well.
 
-- **Data Structures and Algorithms:** This is a topic that seems to be controversial. I only know a few simple algorithms and data structures but to be honest, I don't think I have ever applied any of the knowledge in real world development.
+- **Data Structures and Algorithms:** This is a topic that seems to be controversial. I only know a few simple algorithms and data structures but to be honest, I don't think I have ever applied any of the knowledge in real-world development.
 
-- **Deployment, Web Servers and AWS:** I don't know to deploy applications using Digital Oceans or any other hosting platforms like Heroku, etc. Never tried any of AWS to deployed my applications.
+- **Deployment, Web Servers and AWS:** I don't know to deploy applications using Digital Oceans or any other hosting platforms like Heroku, etc. Never tried any of AWS to deploy my applications.
 
 - **Design and Graphics:** Don't even go there!
 
-- **Networking:** Funny enough, I did networking for almost a year before I picked programming but I have forgotten most of the stuffs Ilearnt back then. I still remember little but wouldnt go far, TCP, UDP, Packets, HTTPS, SSL, etc.
+- **Networking:** Funny enough, I did networking for almost a year before I picked programming but I have forgotten most of the stuff I learnt back then. I still remember little but wouldn't go far, TCP, UDP, Packets, HTTPS, SSL, etc.
 
-- **Frontend Technologies:** There are so many technologies I still haven't come to grasp with. They include, accessibility, Animations, Brwser rendering, PWA, etc
+- **Frontend Technologies:** There are so many technologies I still haven't come to grasp with. They include, accessibility, Animations, Browser rendering, PWA, etc
 
 ---
 
-I’m aware of my knowledge gaps. I can fill them in later if I become curious or if I need them for a project.
-
 This doesn’t devalue my knowledge and experience. There’s plenty of things that I can do well. For example, learning technologies when I need them.
 
-_This article is largely inspire by Dan Abramov [article](https://overreacted.io/things-i-dont-know-as-of-2018/) on the same topic. Dan is an industry leader and writing something like this goes a long way to encourage other programmers that it's possible not to know everything and still be relevant in the industry._
+_This article is largely inspired by Dan Abramov [article](https://overreacted.io/things-i-dont-know-as-of-2018/) on the same topic. Dan is an industry leader and writing something like this goes a long way to encourage other programmers that it's possible not to know everything and still be relevant in the industry._
