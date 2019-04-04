@@ -1,5 +1,5 @@
 ---
-title: "Things I Don't Know as of 2018 (in Programming)"
+title: "Things I Don't Know as of 2019 (in Programming)"
 description: "List of things I haven't used"
 date: 2019-01-05T11:33:58+01:00
 draft: false
