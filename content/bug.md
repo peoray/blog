@@ -13,7 +13,7 @@ Here is my Finding:
 
 - **Title:** No country flag icon for list of currencies
 
-- **Description:** The dropdown for 'NGN' shows a list of country currecies. At first glance, it's looks messy and one has to strain their eyes to locate the currency they are looking for.
+- **Description:** The drop-down for 'NGN' shows a list of country currencies. At first glance, it's looks messy and one has to strain their eyes to locate the currency they are looking for.
 
 - **Expected result:** There should be country flag for better user experience
 
