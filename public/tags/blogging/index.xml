@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Emmanuel Raymond</title>
+    <link>/tags/blogging/</link>
+    <description>Recent content in Blogging on Emmanuel Raymond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Emmanuel Raymond</copyright>
+    <lastBuildDate>Mon, 19 Jun 2017 02:49:07 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/thoughts/hello-world/</link>
+      <pubDate>Mon, 19 Jun 2017 02:49:07 +0100</pubDate>
+      
+      <guid>/thoughts/hello-world/</guid>
+      <description>Welcome to my first blog post! I felt that it would be customary for me to use a timeless greeting all techies and geeks would be used to seeing. I’ve been meaning to start a blog for a very long time, but I tend to procrastinate, one of the many reasons I am starting this blog. Finally, today I am writing my first ever article.
+Why a Blog?   image source</description>
+    </item>
+    
+  </channel>
+</rss>

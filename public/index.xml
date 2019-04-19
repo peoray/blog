@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emmanuel Raymond</title>
+    <link>/</link>
+    <description>Recent content on Emmanuel Raymond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Emmanuel Raymond</copyright>
+    <lastBuildDate>Sat, 05 Jan 2019 11:33:58 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Things I Don&#39;t Know as of 2019 (in Programming)</title>
+      <link>/technology/things-i-dont-know-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 11:33:58 +0100</pubDate>
+      
+      <guid>/technology/things-i-dont-know-2019/</guid>
+      <description>I have been writing code for over two years and looking back, it amazes me the number of things I don&amp;rsquo;t know yet. It&amp;rsquo;s a rat-race trying to catch up with the industry, the more you try hard to catch up, the further you realize you are behind. I want to use this opportunity to list out some programming technologies I don&amp;rsquo;t know.
+This is kind of a journal for me to see what I don&amp;rsquo;t know as of 2018.</description>
+    </item>
+    
+    <item>
+      <title>Year in Review: 2018</title>
+      <link>/thoughts/year-in-review-2018/</link>
+      <pubDate>Mon, 31 Dec 2018 20:09:29 +0100</pubDate>
+      
+      <guid>/thoughts/year-in-review-2018/</guid>
+      <description>2018 has been a wonderful year regardless of the setbacks that happened, it was truly my best year yet. I have probably grown more this year than any other year in the past. Last year, I had lots of goals I wanted to achieve before this day, while I completed most, attempted a few and completely didn&amp;rsquo;t do some, looking back, I&amp;rsquo;m grateful for the position I am in because it wasn&amp;rsquo;t so 365 days ago.</description>
+    </item>
+    
+    <item>
+      <title>How to display password in a form input</title>
+      <link>/tutorials/display-password-form-input/</link>
+      <pubDate>Fri, 20 Jul 2018 18:06:49 +0100</pubDate>
+      
+      <guid>/tutorials/display-password-form-input/</guid>
+      <description>On most websites, when filling in the password in a form either to sign up or to log in, you will often see a button (or a checkbox) telling you to show password. This is often good for user experience so that the user, if unsure can check to see if they made an error.
+In this tutorial, we will create a similar project where we can type in our password in a form and check a checkbox to display or hide it.</description>
+    </item>
+    
+    <item>
+      <title>I asked my first StackOverflow question </title>
+      <link>/technology/first-stackoverflow-question/</link>
+      <pubDate>Fri, 18 May 2018 18:04:42 +0100</pubDate>
+      
+      <guid>/technology/first-stackoverflow-question/</guid>
+      <description>I asked my first question on StackOverflow today and within minutes, I got answers to my question. Unlike what I read online about difficulties in asking a question, mine was actually easy. Aside from insisting I used a title that describes the question and no one has used before which took few minutes, everything went well.
+What was your experience when you asked your first ever question on StackOverflow?</description>
+    </item>
+    
+    <item>
+      <title>My First Day At LearnFactory Nigeria</title>
+      <link>/thoughts/first-day-at-learnfactory/</link>
+      <pubDate>Mon, 30 Apr 2018 17:48:57 +0100</pubDate>
+      
+      <guid>/thoughts/first-day-at-learnfactory/</guid>
+      <description>LearnFactory is a company that is committed to grooming great men and women with character and capacity. It is a collaborative tech environment that provides training in software engineering skills relevant in the industry today with access to cutting-edge tools and provides an opportunity for aspiring tech entrepreneurs, enthusiasts and creative people to meet, learn, showcase their ideas and work together towards solving social and business needs using homegrown technology and solutions.</description>
+    </item>
+    
+    <item>
+      <title>My First #100DaysOfCode Experience</title>
+      <link>/technology/100-days-of-code-experience/</link>
+      <pubDate>Fri, 27 Apr 2018 17:55:34 +0100</pubDate>
+      
+      <guid>/technology/100-days-of-code-experience/</guid>
+      <description>I completed my #100DaysOfCode challenge on 20th April 2018. In case you are wondering what it is, I wrote an article when I started the challenge. The whole idea of the challenge is that you publicly commit to coding every day for 100 days. During this period, my experience has both been overwhelming and underwhelming. In this article, I hope to highlight my experience and also to offer advice to others doing it to make it more effective and gain the best out of it.</description>
+    </item>
+    
+    <item>
+      <title>Building my First Project: Numbers Facts Machine</title>
+      <link>/technology/first-project/</link>
+      <pubDate>Thu, 08 Feb 2018 17:17:49 +0100</pubDate>
+      
+      <guid>/technology/first-project/</guid>
+      <description>UPDATE: I finally managed to host the app thanks to The Shalvah
+Check out the app here
+This is the first ever project I completed and I got the inspiration from Brad Traversy YouTube video. I decided to add my own features and include options for both year and date request.
+The project is based on the Numbers API where the data is gotten from. The documentation on the usage of the API is pretty straightforward and It’s a free API.</description>
+    </item>
+    
+    <item>
+      <title>#100DaysOfCode — Let’s do this!</title>
+      <link>/technology/100-days-of-code/</link>
+      <pubDate>Thu, 11 Jan 2018 16:48:53 +0100</pubDate>
+      
+      <guid>/technology/100-days-of-code/</guid>
+      <description>WHAT IS IT? This is a challenge that was created by Alexander Kallaway and he first wrote this article about it. Since then, it has garnered so much support in the field that it has now become a norm, especially for beginners like myself. The goal of the whole challenge as highlighted by Kallaway is to ensure you code for a minimum of an hour every day for the next 100 days.</description>
+    </item>
+    
+    <item>
+      <title>Year In Review: 2017</title>
+      <link>/thoughts/year-in-review-2017/</link>
+      <pubDate>Sun, 31 Dec 2017 16:40:49 +0100</pubDate>
+      
+      <guid>/thoughts/year-in-review-2017/</guid>
+      <description>2107 has been a great year despite many ups and downs, I’m excited about everything that happened and especially the progress I made personally in various aspects of my life. I also managed to learn more about myself and how I handle adversity and setbacks in my life.
+Graduation Overall, 2017 was an average year. My biggest achievement has to be my graduating from college. I studied Electrical and Electronics Engineering and it was a great relief to finally come to the end of my program.</description>
+    </item>
+    
+    <item>
+      <title>A New Ending</title>
+      <link>/thoughts/a-new-ending/</link>
+      <pubDate>Mon, 13 Nov 2017 00:52:30 +0100</pubDate>
+      
+      <guid>/thoughts/a-new-ending/</guid>
+      <description>You can’t go back and make a new start, but you can start right now and make a brand new ending
+&amp;mdash; James R. Sherman
+ Been a while I posted here. My last post was actually my introductory post where I announced I was gonna post a new article per week. Turned out it was another case of easier said than done. Anyways, I last coded three months ago until recently, due to the fact my laptop was stolen.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/thoughts/hello-world/</link>
+      <pubDate>Mon, 19 Jun 2017 02:49:07 +0100</pubDate>
+      
+      <guid>/thoughts/hello-world/</guid>
+      <description>Welcome to my first blog post! I felt that it would be customary for me to use a timeless greeting all techies and geeks would be used to seeing. I’ve been meaning to start a blog for a very long time, but I tend to procrastinate, one of the many reasons I am starting this blog. Finally, today I am writing my first ever article.
+Why a Blog?   image source</description>
+    </item>
+    
+  </channel>
+</rss>

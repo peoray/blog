@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>100DaysOfCode on Emmanuel Raymond</title>
+    <link>/tags/100daysofcode/</link>
+    <description>Recent content in 100DaysOfCode on Emmanuel Raymond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Emmanuel Raymond</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 17:55:34 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/100daysofcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First #100DaysOfCode Experience</title>
+      <link>/technology/100-days-of-code-experience/</link>
+      <pubDate>Fri, 27 Apr 2018 17:55:34 +0100</pubDate>
+      
+      <guid>/technology/100-days-of-code-experience/</guid>
+      <description>I completed my #100DaysOfCode challenge on 20th April 2018. In case you are wondering what it is, I wrote an article when I started the challenge. The whole idea of the challenge is that you publicly commit to coding every day for 100 days. During this period, my experience has both been overwhelming and underwhelming. In this article, I hope to highlight my experience and also to offer advice to others doing it to make it more effective and gain the best out of it.</description>
+    </item>
+    
+    <item>
+      <title>#100DaysOfCode — Let’s do this!</title>
+      <link>/technology/100-days-of-code/</link>
+      <pubDate>Thu, 11 Jan 2018 16:48:53 +0100</pubDate>
+      
+      <guid>/technology/100-days-of-code/</guid>
+      <description>WHAT IS IT? This is a challenge that was created by Alexander Kallaway and he first wrote this article about it. Since then, it has garnered so much support in the field that it has now become a norm, especially for beginners like myself. The goal of the whole challenge as highlighted by Kallaway is to ensure you code for a minimum of an hour every day for the next 100 days.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html  prefix="og: http://ogp.me/ns#" >
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>How to display password in a form input – Emmanuel Raymond</title>
+    
+    <meta name="description" content="How to use JavaScript to display or hide a password in a form.">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="generator" content="Hugo 0.55.2" />
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="How to display password in a form input">
+<meta property="og:description" content="How to use JavaScript to display or hide a password in a form.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="/tutorials/display-password-form-input/">
+    <link href="/styles/prism.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/dist/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin,cyrillic-ext,latin-ext,cyrillic">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+        crossorigin="anonymous">
+    
+    
+    <meta name="twitter:site" content="@super_raay">
+<meta name="twitter:creator" content="@super_raay">
+
+
+<meta name="twitter:description" content="How to use JavaScript to display or hide a password in a form." />
+<meta name="twitter:title" content="How to display password in a form input" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://cdn-images-1.medium.com/max/800/1*m1wtIMhbpRjbiqnDFKDZiA.jpeg" />
+
+    
+
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "\/"
+    },
+    "articleSection" : "tutorials",
+    "name" : "How to display password in a form input",
+    "headline" : "How to display password in a form input",
+    "description" : "How to use JavaScript to display or hide a password in a form.",
+    "inLanguage" : "en-US",
+    "author" : "Emmanuel Raymond",
+    "creator" : "Emmanuel Raymond",
+    "publisher": "Emmanuel Raymond",
+    "accountablePerson" : "Emmanuel Raymond",
+    "copyrightHolder" : "Emmanuel Raymond",
+    "copyrightYear" : "2018",
+    "datePublished": "2018-07-20 18:06:49 \x2b0100 WAT",
+    "dateModified" : "2018-07-20 18:06:49 \x2b0100 WAT",
+    "url" : "\/tutorials\/display-password-form-input\/",
+    "wordCount" : "890",
+    "keywords" : [ "JavaScript","Blog" ]
+}
+</script>
+    
+</head>
+
+<body>
+    
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-131778153-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+
+
+    <div id="wrapper">
+        <header class="site-header">
+            <div class="container">
+                <div class="site-title-wrapper">
+                    
+                    <h1 class="site-title">
+                        <a title="Emmanuel Raymond" href="/">Emmanuel Raymond</a>
+                    </h1>
+                    
+                    <a class="button-square" href="/index.xml"><i class="fa fa-rss"></i></a>
+                    
+                    <a class="button-square button-social hint--top" data-hint="Twitter" title="Twitter" href="https://twitter.com/super_raay">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    
+                    
+                    
+                    <a class="button-square button-social hint--top" data-hint="Github" title="Github" href="https://github.com/peoray">
+                        <i class="fa fa-github-alt"></i>
+                    </a>
+                    
+                    
+                    
+                    <a class="button-square button-social hint--top" data-hint="LinkedIn" title="LinkedIn" href="https://www.linkedin.com/in/emmanuel-raymond-b1421b128/">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    
+                    
+                    
+                    <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:peorayy@gmail.com">
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                    
+                </div>
+
+                <ul class="site-nav">
+                    
+    <li class="site-nav-item">
+        <a title="home" href="/">home</a>
+    </li>
+
+    <li class="site-nav-item">
+        <a title="tutorials" href="/tutorials">tutorials</a>
+    </li>
+
+    <li class="site-nav-item">
+        <a title="tech" href="/technology">tech</a>
+    </li>
+
+    <li class="site-nav-item">
+        <a title="personal" href="/thoughts">personal</a>
+    </li>
+
+                </ul>
+            </div>
+        </header>
+
+        <div id="container">
+
+<div class="container">
+    <article class="post-container">
+        <header class="post-header">
+    <h1 class="post-title">How to display password in a form input</h1>
+    
+    <p class="post-description">How to use JavaScript to display or hide a password in a form.</p>
+    
+    <p class="post-date">
+        <span>Published
+            <time datetime=" 2018-07-20 " itemprop="datePublished">
+                Jul 20, 2018</time>
+        </span>
+        
+    </p>
+</header>
+
+        <div class="post-content clearfix">
+    
+        <img class="post-featured-image" src="https://cdn-images-1.medium.com/max/800/1*m1wtIMhbpRjbiqnDFKDZiA.jpeg">
+    
+
+    
+
+<p>On most websites, when filling in the password in a form either to sign up or to log in, you will often see a button (or a checkbox) telling you to show password. This is often good for user experience so that the user, if unsure can check to see if they made an error.</p>
+
+<p>In this tutorial, we will create a similar project where we can type in our password in a form and check a checkbox to display or hide it. Let’s get started.</p>
+
+<h3 id="requirements">Requirements:</h3>
+
+<p>Before we get started, we need to have a few things in place first. Some of the requirements are as follows:</p>
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Basic Knowledge of JavaScript (ES6)</li>
+<li>DOM</li>
+</ul>
+
+<p>Basic understanding of the skills above is enough for you to be able to follow along and understand the code in the tutorial.</p>
+
+<p>For context, this is a sample of what we will be building At the end of this tutorial we will have something like this:</p>
+
+<figure class="box-shadow">
+    <img src="https://cdn-images-1.medium.com/max/800/1*L5_MjxdSScbfQvjuRQY09Q.gif"
+         alt="our final application"/> <figcaption>
+            <p>Our final application</p>
+        </figcaption>
+</figure>
+
+
+<p>The final code snippet will be provided in a Codepen link at the end of the article.</p>
+
+<h3 id="setting-up-our-environment">Setting up our Environment</h3>
+
+<ul>
+<li><p>Open up your code editor. I’m using Visual Studio Code. You can use whatever you are most comfortable with.</p></li>
+
+<li><p>Inside the editor, create a directory called <strong>password-toggle</strong> (use whatever name you want to, this is just for descriptive purposes)</p></li>
+
+<li><p>Inside the password-toggle directory:</p></li>
+
+<li><p>Create an <code>index.html</code> file</p></li>
+
+<li><p>Create a <code>style.css</code> file</p></li>
+
+<li><p>create a <code>main.js</code> file</p></li>
+</ul>
+
+<p>Your file structure should like this:</p>
+
+<pre><code>password-toggle/
+│
+├── index.html
+│
+├── style.css
+│
+├── app.js
+│
+
+</code></pre>
+
+<p>Let’s get into development</p>
+
+<p>In our <code>index.html</code>, add the default boilerplate and name our title <strong>“How to display or hide password”</strong>. Also, let&rsquo;s link our CSS and JavaScript file to our HTML so we can be able to use both.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
+&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en&#34;</span>&gt;
+  &lt;<span style="color:#f92672">head</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;UTF-8&#34;</span> /&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;viewport&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;width=device-width, initial-scale=1.0&#34;</span> /&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">http-equiv</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;X-UA-Compatible&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;ie=edge&#34;</span> /&gt;
+    &lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;stylesheet&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;style.css&#34;</span> /&gt;  <span style="color:#75715e">&lt;!-- CSS stylesheet --&gt;</span>
+    &lt;<span style="color:#f92672">title</span>&gt;How to display or hide password&lt;/<span style="color:#f92672">title</span>&gt;
+  &lt;/<span style="color:#f92672">head</span>&gt;
+  &lt;<span style="color:#f92672">body</span>&gt;
+
+    &lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;app.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt; <span style="color:#75715e">&lt;!-- JavaScript file --&gt;</span>
+
+  &lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;</code></pre></div>
+<p><strong>Pro Tip💡:</strong> If you are using Visual Studio Code, when you type <code>!</code> and press tab or enter on your keyboard, it will auto-complete the rest of the boilerplate for you.</p>
+
+<p>If you are using other editors like Sublime Text or Atom, you will need to install the Emmet extension for this to work.</p>
+
+<p>Let’s create our form input so we can have a field to type in our password.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
+&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;en&#34;</span>&gt;
+&lt;<span style="color:#f92672">head</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;UTF-8&#34;</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;viewport&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;width=device-width, initial-scale=1.0&#34;</span>&gt;
+    &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">http-equiv</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;X-UA-Compatible&#34;</span> <span style="color:#a6e22e">content</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;ie=edge&#34;</span>&gt;
+    &lt;<span style="color:#f92672">title</span>&gt;Password Toggle&lt;/<span style="color:#f92672">title</span>&gt;
+    &lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;stylesheet&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;style.css&#34;</span>&gt;
+&lt;/<span style="color:#f92672">head</span>&gt;
+&lt;<span style="color:#f92672">body</span>&gt;
+    &lt;<span style="color:#f92672">form</span>&gt;
+        &lt;<span style="color:#f92672">label</span> <span style="color:#a6e22e">for</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;password&#34;</span>&gt;Password&lt;/<span style="color:#f92672">label</span>&gt;
+        &lt;<span style="color:#f92672">input</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;password&#34;</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;password&#34;</span> <span style="color:#a6e22e">placeholder</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Enter your Password&#34;</span>&gt;
+        &lt;<span style="color:#f92672">label</span> <span style="color:#a6e22e">for</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;togglePassword&#34;</span>&gt;show password&lt;/<span style="color:#f92672">label</span>&gt;
+        &lt;<span style="color:#f92672">input</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;checkbox&#34;</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;togglePassword&#34;</span>&gt;
+        &lt;<span style="color:#f92672">button</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;button&#34;</span>&gt;Submit&lt;/<span style="color:#f92672">button</span>&gt;
+    &lt;/<span style="color:#f92672">form</span>&gt;
+    &lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;app.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+&lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;</code></pre></div>
+<p>In our <code>style.css</code> file, add the following styles. This is just to make it look presentable. Feel free to style this however way you want to.</p>
+
+<pre>
+<code class="language-css">
+body {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+input[type=password], input[type=text] {
+  border: 1px #b6e7f9 solid;
+  padding: 5px 10px;
+}
+
+input[type=checkbox] {
+  vertical-align: middle;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  color: #fff;
+  background-color: #65b0ed;
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+}
+</code>
+</pre>
+
+<p>Ensure that your code is saved and when you open up your browser, your page should be looking like this:</p>
+
+<figure>
+    <img src="https://cdn-images-1.medium.com/max/800/1*3CUkSR8W1hy3AaH3yMNwiQ.png"
+         alt="HTML &#43; CSS boilerplate"/> <figcaption>
+            <p>HTML + CSS</p>
+        </figcaption>
+</figure>
+
+
+<p>Let’s move over to the app.js file and begin to write our JavaScript code.</p>
+
+<p>Our pseudo-code logic should be like this:</p>
+
+<ul>
+<li>When the user clicks the show password checkbox, the input type should change to a text. This will enable the password to display as plain text.</li>
+</ul>
+
+<p>We will be using ES6 arrow function to write our function.</p>
+
+<p>First thing, let’s assign the checkbox element tag and save it to a variable:</p>
+
+<pre><code class="language-js">const togglePassword = document.getElementById("togglePassword");</code></pre>
+
+<p>The <code>document.getElementById()</code> returns a HTML element whose id property matches the specified string. Since element IDs are required to be unique if specified, they&rsquo;re a useful way to get access to a specific element quickly.</p>
+
+<p>After assigning the checkbox element to a variable, let’s write our function that will contain the code to make our app work.</p>
+
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">showOrHidePassword</span> <span style="color:#f92672">=</span> () =&gt; {
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span>  <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">password</span> <span style="color:#f92672">=</span> document.<span style="color:#a6e22e">getElementById</span>(<span style="color:#e6db74">&#39;password&#39;</span>);
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span>  <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">password</span>.<span style="color:#a6e22e">type</span> <span style="color:#f92672">===</span> <span style="color:#e6db74">&#39;password&#39;</span>) {
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span>    <span style="color:#a6e22e">password</span>.<span style="color:#a6e22e">type</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;text&#39;</span>;
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span>  } <span style="color:#66d9ef">else</span> {
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span>    <span style="color:#a6e22e">password</span>.<span style="color:#a6e22e">type</span> <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;password&#39;</span>;
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span>  }
+<span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8</span>};
+</code></pre></div>
+
+<ul>
+<li><p><strong>Line 1:</strong> Our function is given a name called showOrHidePassword using the camel case notation.</p></li>
+
+<li><p><strong>Line 2:</strong> We assigned the input field having an id of password, which is the password field to a variable called password.</p></li>
+
+<li><p><strong>Line 3:</strong> We did an if-statement to check if the type of input is a text using the password.type (recall that password is a variable assigned to the input field in the HTML).</p></li>
+
+<li><p><strong>Line 4:</strong> If the if-statement returns true (the type of input is a password), then we want to change it to a text instead.</p></li>
+
+<li><p><strong>Line 6:</strong> If it returns false (the input type is a text), then we want to change it to a password.</p></li>
+</ul>
+
+<p>Our code is almost complete, the only thing left would be to add an event listener to listen to an event (in this case, a change event), so that when we check the checkbox, the function would execute.</p>
+
+<pre>
+<code class="language-js">
+togglePassword.addEventListener("change", showOrHidePassword);
+</code>
+</pre>
+
+<p>This is the Codepen that contains the complete code:</p>
+
+<p><p data-height="584" data-theme-id="0" data-slug-hash="qyBVmJ" data-default-tab="html,result" data-user="peoray" data-pen-title="How to toggle your password" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/peoray/pen/qyBVmJ/">How to toggle your password</a> by Emmanuel Raymond (<a href="https://codepen.io/peoray">@peoray</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script></p>
+
+</div>
+
+        <footer class="post-footer clearfix">
+    
+    <p class="post-tags">
+        <span>Tagged:</span>
+        
+        
+        <a href="/tags/javascript/">JavaScript</a>
+        
+    </p>
+    
+
+    <div class="share">
+        <span class="share-on">share on:</span>
+        
+        <a class="icon-twitter" href="https://twitter.com/share?text=How%20to%20display%20password%20in%20a%20form%20input&url=%2ftutorials%2fdisplay-password-form-input%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <i class="fa fa-twitter"></i>
+            <span class="hidden">Twitter</span>
+        </a>
+        
+
+        
+        <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=%2ftutorials%2fdisplay-password-form-input%2f" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+            <i class="fa fa-facebook"></i>
+            <span class="hidden">Facebook</span>
+        </a>
+        
+
+        
+        
+        <a class="icon-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&title=How%20to%20display%20password%20in%20a%20form%20input&url=%2ftutorials%2fdisplay-password-form-input%2f&summary=How%20to%20use%20JavaScript%20to%20display%20or%20hide%20a%20password%20in%20a%20form."
+            onclick="window.open(this.href, 'linkedin-share', 'width=554,height=481');return false;">
+            <i class="fa fa-linkedin"></i>
+            <span class="hidden">LinkedIn</span>
+        </a>
+        
+    </div>
+    
+</footer>
+
+        
+<div class="comments">
+    
+    <div id="disqus_thread"></div>
+    <script>
+        
+
+        
+
+        (function () { 
+            
+            
+            if (window.location.hostname == "localhost")
+                return;
+
+            var d = document,
+                s = d.createElement('script');
+            s.src = 'https://peoray.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the
+        <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+</div>
+
+
+        
+<h4 class="form-header">Subscribe to my Newsletter</h4>
+<p class="form-text">Don't miss out on new articles from me. Get notified when a new article is published.</p>
+<form class="form" action="https://tinyletter.com/peoray" method="post" target="popupwindow"
+    onsubmit="window.open('https://tinyletter.com/peoray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <p><input type="text" class="sub-input" name="email" id="tlemail" onfocus="this.value=''" placeholder="Email address" /></p>
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" class="sub-submit" />
+</form>
+
+    </article>
+</div>
+
+</div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="site-title-wrapper">
+            <h1 class="site-title">
+                <a title="Emmanuel Raymond" href="/">Emmanuel Raymond</a>
+            </h1>
+            <a class="button-square button-jump-top js-jump-top" href="#">
+                <i class="fa fa-angle-up"></i>
+            </a>
+        </div>
+
+        <p class="footer-copyright">
+            <span>&copy; 2019</span>
+        </p>
+
+        
+       
+        <script src="/js/jquery-1.11.3.min.js"></script>
+        <script src="/js/jquery.fitvids.js"></script>
+
+        
+
+        <script src="/js/prism.js"></script>
+        <script src="/js/scripts.js"></script>
+        <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
+        </body>
+
+        </html>

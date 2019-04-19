@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-05T11:33:58+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/technology/</loc>
+    <lastmod>2019-01-05T11:33:58+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/technology/things-i-dont-know-2019/</loc>
+    <lastmod>2019-01-05T11:33:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reflections/</loc>
+    <lastmod>2018-12-31T20:09:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-12-31T20:09:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/thoughts/</loc>
+    <lastmod>2018-12-31T20:09:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/thoughts/year-in-review-2018/</loc>
+    <lastmod>2018-12-31T20:09:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/year-in-review/</loc>
+    <lastmod>2018-12-31T20:09:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tutorials/display-password-form-input/</loc>
+    <lastmod>2018-07-20T18:06:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/javascript/</loc>
+    <lastmod>2018-07-20T18:06:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tutorials/</loc>
+    <lastmod>2018-07-20T18:06:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/technology/first-stackoverflow-question/</loc>
+    <lastmod>2018-05-18T18:04:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stackoverflow/</loc>
+    <lastmod>2018-05-18T18:04:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/internship/</loc>
+    <lastmod>2018-04-30T17:48:57+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/thoughts/first-day-at-learnfactory/</loc>
+    <lastmod>2018-04-30T17:48:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/100daysofcode/</loc>
+    <lastmod>2018-04-27T17:55:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/technology/100-days-of-code-experience/</loc>
+    <lastmod>2018-04-27T17:55:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/technology/first-project/</loc>
+    <lastmod>2018-02-08T17:17:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/project/</loc>
+    <lastmod>2018-02-08T17:17:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/technology/100-days-of-code/</loc>
+    <lastmod>2018-01-11T16:48:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/year-in-review-2017/</loc>
+    <lastmod>2017-12-31T16:40:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/a-new-ending/</loc>
+    <lastmod>2017-11-13T00:52:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/perseverance/</loc>
+    <lastmod>2017-11-13T00:52:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blogging/</loc>
+    <lastmod>2017-06-19T02:49:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/thoughts/hello-world/</loc>
+    <lastmod>2017-06-19T02:49:07+01:00</lastmod>
+  </url>
+  
+</urlset>

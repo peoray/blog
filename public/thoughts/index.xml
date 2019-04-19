@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Emmanuel Raymond</title>
+    <link>/thoughts/</link>
+    <description>Recent content in Thoughts on Emmanuel Raymond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Emmanuel Raymond</copyright>
+    <lastBuildDate>Mon, 31 Dec 2018 20:09:29 +0100</lastBuildDate>
+    
+	<atom:link href="/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Year in Review: 2018</title>
+      <link>/thoughts/year-in-review-2018/</link>
+      <pubDate>Mon, 31 Dec 2018 20:09:29 +0100</pubDate>
+      
+      <guid>/thoughts/year-in-review-2018/</guid>
+      <description>2018 has been a wonderful year regardless of the setbacks that happened, it was truly my best year yet. I have probably grown more this year than any other year in the past. Last year, I had lots of goals I wanted to achieve before this day, while I completed most, attempted a few and completely didn&amp;rsquo;t do some, looking back, I&amp;rsquo;m grateful for the position I am in because it wasn&amp;rsquo;t so 365 days ago.</description>
+    </item>
+    
+    <item>
+      <title>My First Day At LearnFactory Nigeria</title>
+      <link>/thoughts/first-day-at-learnfactory/</link>
+      <pubDate>Mon, 30 Apr 2018 17:48:57 +0100</pubDate>
+      
+      <guid>/thoughts/first-day-at-learnfactory/</guid>
+      <description>LearnFactory is a company that is committed to grooming great men and women with character and capacity. It is a collaborative tech environment that provides training in software engineering skills relevant in the industry today with access to cutting-edge tools and provides an opportunity for aspiring tech entrepreneurs, enthusiasts and creative people to meet, learn, showcase their ideas and work together towards solving social and business needs using homegrown technology and solutions.</description>
+    </item>
+    
+    <item>
+      <title>Year In Review: 2017</title>
+      <link>/thoughts/year-in-review-2017/</link>
+      <pubDate>Sun, 31 Dec 2017 16:40:49 +0100</pubDate>
+      
+      <guid>/thoughts/year-in-review-2017/</guid>
+      <description>2107 has been a great year despite many ups and downs, I’m excited about everything that happened and especially the progress I made personally in various aspects of my life. I also managed to learn more about myself and how I handle adversity and setbacks in my life.
+Graduation Overall, 2017 was an average year. My biggest achievement has to be my graduating from college. I studied Electrical and Electronics Engineering and it was a great relief to finally come to the end of my program.</description>
+    </item>
+    
+    <item>
+      <title>A New Ending</title>
+      <link>/thoughts/a-new-ending/</link>
+      <pubDate>Mon, 13 Nov 2017 00:52:30 +0100</pubDate>
+      
+      <guid>/thoughts/a-new-ending/</guid>
+      <description>You can’t go back and make a new start, but you can start right now and make a brand new ending
+&amp;mdash; James R. Sherman
+ Been a while I posted here. My last post was actually my introductory post where I announced I was gonna post a new article per week. Turned out it was another case of easier said than done. Anyways, I last coded three months ago until recently, due to the fact my laptop was stolen.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/thoughts/hello-world/</link>
+      <pubDate>Mon, 19 Jun 2017 02:49:07 +0100</pubDate>
+      
+      <guid>/thoughts/hello-world/</guid>
+      <description>Welcome to my first blog post! I felt that it would be customary for me to use a timeless greeting all techies and geeks would be used to seeing. I’ve been meaning to start a blog for a very long time, but I tend to procrastinate, one of the many reasons I am starting this blog. Finally, today I am writing my first ever article.
+Why a Blog?   image source</description>
+    </item>
+    
+  </channel>
+</rss>

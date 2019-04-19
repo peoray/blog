@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Emmanuel Raymond</title>
+    <link>/tags/project/</link>
+    <description>Recent content in Project on Emmanuel Raymond</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Emmanuel Raymond</copyright>
+    <lastBuildDate>Thu, 08 Feb 2018 17:17:49 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building my First Project: Numbers Facts Machine</title>
+      <link>/technology/first-project/</link>
+      <pubDate>Thu, 08 Feb 2018 17:17:49 +0100</pubDate>
+      
+      <guid>/technology/first-project/</guid>
+      <description>UPDATE: I finally managed to host the app thanks to The Shalvah
+Check out the app here
+This is the first ever project I completed and I got the inspiration from Brad Traversy YouTube video. I decided to add my own features and include options for both year and date request.
+The project is based on the Numbers API where the data is gotten from. The documentation on the usage of the API is pretty straightforward and It’s a free API.</description>
+    </item>
+    
+  </channel>
+</rss>
