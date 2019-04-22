@@ -13,7 +13,7 @@ image: "https://images.unsplash.com/photo-1515261918262-3562685e30ce?ixlib=rb-1.
 
 This was a huge part of my life this year, I put in a lot of efforts regarding growth and improving my skills as a developer. I even did an eight months internship. I was able to learn new skills. This year alone, I learnt Vue, Node, React, React Native and other toolings and technologies involved in Web Development. This was the part I was mostly focused on, I didn't have a Job and that was my drive towards improving my skills, so as to become employed before the year runs out. 
 
-I started and completed the #100 Days of Code challenge and it was both fulfilling and gratifying. I write about my experience [here]({{< ref "technology/100-days-of-code-experience.md">}})
+I started and completed the #100 Days of Code challenge and it was both fulfilling and gratifying. I write about my experience [here]({{< ref "tech_tutorials/100-days-of-code-experience.md">}})
 
 I didn't spend much time on building projects as I would have loved. Although I made up by learning a ton of new stuff, as everyone will say,  the best way to learn is building projects and experimenting with what you have learnt.
 

@@ -2,6 +2,7 @@
 title: "Things I Don't Know as of 2019 (in Programming)"
 description: "List of things I haven't used"
 date: 2019-01-05T11:33:58+01:00
+# updated: 2019-04-05T11:33:58+01:00
 draft: false
 tags: []
 image: "https://res.cloudinary.com/peoray/image/upload/v1553616586/Things_I_Don_t_Know_as_of_2018_in_Programming_owvrsh.png"
@@ -11,7 +12,7 @@ I have been writing code for over two years and looking back, it amazes me the n
 
 This is kind of a journal for me to see what I don't know as of 2018. This by no means undermines my capabilities as a web developer but only shows I'm humble enough to admit waht I don't know something _yet_
 
-- **Programming Languages:** I know only one programming language JavaScript. I don't know any other programming languages such as Go, Python, Php, etc.
+- **Programming Languages:** I know only one programming language, JavaScript. I don't know any other programming languages such as Go, Python, Php, etc.
 
 - **Linux, Unix and Bash command:** Ironically, I use a Linux machine but I only manage to do the basic stuff on the terminal, the rest I just google, copy and paste. I have never done SSH before.
 
