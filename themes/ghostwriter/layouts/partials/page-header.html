@@ -3,7 +3,9 @@
     {{ if .Description }}
     <p class="post-description">{{ .Description }}</p>
     {{ end }}
-    <p class="post-date">
+    <!-- <p class="post-date"> -->
+            <p class="post-date{{ if not .Site.Params.readingTime }} post-line{{ end }}"> 
+
         <span>Published
             <time datetime="{{ .Date.Format " 2006-01-02 " }}" itemprop="datePublished">
                 {{ dateFormat (default "Jan 2, 2006" .Site.Params.dateFormat) .Date }}</time>
@@ -14,5 +16,10 @@
                 {{ dateFormat (default "Jan 2, 2006" .Site.Params.dateFormat) .Params.updated }}</time>
             </span>
             {{ end }}
+            {{ if .Site.Params.readingTime }}
+            <br />
+            <br />
+            <span>{{ .Site.Params.readingTimeText }} {{ .Page.ReadingTime }} min</span>
+            {{ end }}    
     </p>
 </header>
