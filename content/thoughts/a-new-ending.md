@@ -20,7 +20,7 @@ Well, the good news is, I found it but let’s not get into that story.
 Three months is a long time for a beginner to stop coding. People tend to give up and not bother anymore during this period and it is often listed as a bad coding habit. Well, I didn’t give up. I managed to stay up to date with 
 trends through tweets, articles and newsletters.
 
-Perhaps, this compulsory break actually is a blessing in disguise. This period made me think about lots of stuff and I learnt a lot about myself. This month will make a year I started learning how to code, looking back I have come a long way but something doesn’t feel right and I dare say it wasn’t a year of fulfillment but one of confusion, lack of planning and many days spent daydreaming about being the next Mark Zuckerberg
+Perhaps, this compulsory break actually is a blessing in disguise. This period made me think about lots of stuff and I learnt a lot about myself. This month will make a year I started learning how to code, looking back I have come a long way but something doesn’t feel right and I dare say it wasn’t a year of fulfillment but one of confusion, lack of planning and many days spent daydreaming about being the next Mark Zuckerberg.
 
 {{< figure src="https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948#center" alt="Mr. bean gif"  caption="[gif source](https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948)">}}
 
