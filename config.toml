@@ -68,6 +68,8 @@ enableInlineShortcodes = true
     exponeaTrackVisits = false
      readingTime = true
     readingTimeText = "Estimated reading time:"
+    cloudinary_url = "https://res.cloudinary.com/peoray/image/upload"
+
 
 [Permalinks]
     # post = "/:year/:month/:day/:filename/"

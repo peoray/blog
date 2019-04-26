@@ -11,8 +11,13 @@ Welcome to my first blog post! I felt that it would be customary for me to use a
 
 # Why a Blog?
 
-{{< figure src="https://res.cloudinary.com/peoray/image/upload/v1553616587/blog_reohs1.png#center" alt="words related to blogging"  caption="[image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545)">}}
+<!-- {{< figure src="https://res.cloudinary.com/peoray/image/upload/v1553616587/blog_reohs1.png#center" alt="words related to blogging"  caption="[image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545)">}} -->
 
+<!-- {{< figure src="https://res.cloudinary.com/peoray/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/blog_reohs1.png#center" alt="words related to blogging"  caption="[image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545)">}} -->
+
+{{< cld src="blog_reohs1.png#center" alt="words related to bloging" caption="(http://www.inkagency.lt/get.php?i.211:w.836:h.545)" >}}
+
+<!-- [image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545) -->
 So over the years, I have read a lot! A lot of it goes in and doesn’t stick. So my plan is to take something I want to learn about, read about it, play around with it, create some demos and write about what I have learned.
 
 In summary, here is a list of why I want to blog:

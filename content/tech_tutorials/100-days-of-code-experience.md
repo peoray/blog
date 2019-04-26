@@ -63,9 +63,9 @@ Like I said earlier, I haven’t completed any project prior to when I started t
 
 - 30 Days, 30 Sites — A challenge where you receive daily prompts to build 30 simple web pages in 30 days (It doesn’t have to be)
 
-    - Day 2 (Events web page) — [GitHub r](https://github.com/peoray/30-days-30-sites/tree/master/day2)epo
+    - Day 2 (Events web page) — [GitHub repo](http://github.com/peoray/wedding-bells)
 
-    - Day 3 (Tourism web page) — [GitHub repo](https://github.com/peoray/30-days-30-sites/tree/master/day3)
+    - Day 3 (Tourism web page) — [GitHub repo](https://github.com/peoray/Travelify)
 
 ## Key Takeaways
 

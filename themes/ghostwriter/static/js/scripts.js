@@ -17,4 +17,9 @@ jQuery(function($) {
     });
 });
 
+const cl = cloudinary.Cloudinary.new({ cloud_name: 'peoray' })
+cl.responsive()
+
+// console.log('sjssj')
 hljs.initHighlightingOnLoad();
+
