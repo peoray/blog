@@ -11,14 +11,9 @@ Welcome to my first blog post! I felt that it would be customary for me to use a
 
 # Why a Blog?
 
-<!-- {{< figure src="https://res.cloudinary.com/peoray/image/upload/v1553616587/blog_reohs1.png#center" alt="words related to blogging"  caption="[image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545)">}} -->
+{{< cld src="blog_reohs1.png#center" alt="words related to bloging" >}}
 
-<!-- {{< figure src="https://res.cloudinary.com/peoray/image/upload/w_auto,dpr_auto,c_scale,f_auto,q_auto/blog_reohs1.png#center" alt="words related to blogging"  caption="[image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545)">}} -->
-
-{{< cld src="blog_reohs1.png#center" alt="words related to bloging" caption="(http://www.inkagency.lt/get.php?i.211:w.836:h.545)" >}}
-
-<!-- [image source](http://www.inkagency.lt/get.php?i.211:w.836:h.545) -->
-So over the years, I have read a lot! A lot of it goes in and doesn’t stick. So my plan is to take something I want to learn about, read about it, play around with it, create some demos and write about what I have learned.
+So over the years, I have read a lot! A lot of it goes in and doesn’t stick. So my plan is to take something I want to learn about,read about it, play around with it, create some demos and write about what I have learned.
 
 In summary, here is a list of why I want to blog:
 
@@ -36,7 +31,7 @@ In summary, here is a list of why I want to blog:
 
 So what sort of interesting things will I be blogging about? Well, I’ll be writing about my thoughts, actions, successes, failures, lessons and experiences. Nowadays, my life revolves around tech, software and code (I’m a beginner, I like the tag), so you will be seeing lots of posts about that. If you are into programming, then you might want to follow me.
 
-{{< figure src="https://thumbs.gfycat.com/AltruisticNewKagu-size_restricted.gif#center" alt="giphy cat"  caption="[gif source](https://thumbs.gfycat.com/AltruisticNewKagu-size_restricted.gif)">}}
+{{< figure src="https://thumbs.gfycat.com/AltruisticNewKagu-size_restricted.gif#center" alt="giphy cat" >}}
 
 I will also be writing about my monthly goals I hope to achieve, tips, advice, motivational and inspirational posts, quotes, books I read and even movies I watch (I hope I don’t get to do this). I hope to get into blogging about my myriad experiences (whenever I get them), my travels, food, places, life moments and about everything else that matters to me.
 
@@ -46,7 +41,7 @@ Too much right? Well, now you know why it’s called a Personal Blog (there are 
 
 It took me quite a long time to write this and publish, so you can imagine how hard it can be to blog. Little wonder most people tend to get started and abandon it later. So, I will be keeping things simple, don’t expect daily or weekly posts!
 
-{{< figure src="https://cdn-images-1.medium.com/max/800/1*vqysqiinjeCj6TdcARZLeA.jpeg#center" alt="blogging is hard"  caption="[image source](https://cdn-images-1.medium.com/max/800/1*vqysqiinjeCj6TdcARZLeA.jpeg)">}}
+{{< figure src="https://cdn-images-1.medium.com/max/800/1*vqysqiinjeCj6TdcARZLeA.jpeg#center" alt="blogging is hard" >}}
 
 # Simple Right?
 
@@ -56,4 +51,4 @@ So whats the point of it all? Well, to document my journey in life and to share 
 
 So stay tuned and let the show begin!
 
-{{< figure src="https://media.giphy.com/media/mxDZecDOOsWCA/giphy.gif#center" alt="blogging is hard"  caption="[gif source](https://media.giphy.com/media/mxDZecDOOsWCA/giphy.gif)">}}
+{{< figure src="https://media.giphy.com/media/mxDZecDOOsWCA/giphy.gif#center" alt="blogging is hard" >}}

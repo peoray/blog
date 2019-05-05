@@ -4,7 +4,7 @@ description: "My experience completing my first #100DaysOfCode challenge"
 date: 2018-04-27T17:55:34+01:00
 draft: false
 tags: ["100DaysOfCode"]
-image: "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://res.cloudinary.com/peoray/image/upload/v1557015746/pexels-photo-879109_wmpe8j.jpg"
 ---
 
 I completed my #100DaysOfCode challenge on 20th April 2018. In case you are wondering what it is, I wrote an [article]({{< ref "100-days-of-code.md">}}) when I started the challenge. The whole idea of the challenge is that you publicly commit to coding every day for 100 days. During this period, my experience has both been overwhelming and underwhelming. In this article, I hope to highlight my experience and also to offer advice to others doing it to make it more effective and gain the best out of it.
@@ -78,6 +78,7 @@ Like I said earlier, I haven’t completed any project prior to when I started t
 - **Not giving up is the best way to go:** Programming is hard and you are bound to struggle. There will be plenty of moments you will be like “To hell with this, I give up”. I had those moments too, everyone does. But I bet you, if you don’t give up, it will begin to make sense, those concepts that seem impossible to understand will suddenly make sense you begin to wonder how you didn’t get it the first time, bugs you couldn’t fix will become easy, it’s just like magic. Life might get in the way and you might miss some days, but as long as you get back on track, it doesn’t matter. I’d recommend you continue rather than starting all over again, besides you can bend the rules to suit your schedule so you get to achieve optimal results at the end.
     
 - **Enjoy the journey:** Programming is a journey, somehow it never ends as technology always continues to evolve. As Greg Anderson said: 
+  
 > “Focus on the journey, not the destination. 
 Joy is found not in finishing an activity but in doing it”. Eventually, you will have the desire to keep going and make it a habit to code It does not matter how slowly you go as long as you do not stop.
 

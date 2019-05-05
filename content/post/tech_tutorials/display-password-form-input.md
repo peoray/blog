@@ -4,7 +4,7 @@ description: 'How to use JavaScript to display or hide a password in a form.'
 date: 2018-07-20T18:06:49+01:00
 draft: false
 tags: ['JavaScript']
-image: 'https://cdn-images-1.medium.com/max/800/1*m1wtIMhbpRjbiqnDFKDZiA.jpeg'
+image: 'https://res.cloudinary.com/peoray/image/upload/v1557016215/1_m1wtIMhbpRjbiqnDFKDZiA_u6yxrm.jpg'
 ---
 
 On most websites, when filling in the password in a form either to sign up or to log in, you will often see a button (or a checkbox) telling you to show password. This is often good for user experience so that the user, if unsure can check to see if they made an error.
@@ -24,7 +24,7 @@ Basic understanding of the skills above is enough for you to be able to follow a
 
 For context, this is a sample of what we will be building At the end of this tutorial we will have something like this:
 
-{{< figure src="https://cdn-images-1.medium.com/max/800/1*L5_MjxdSScbfQvjuRQY09Q.gif" class="box-shadow" alt="our final application" caption="Our final application" >}}
+{{< figure src="https://res.cloudinary.com/peoray/image/upload/v1557016324/1_L5_MjxdSScbfQvjuRQY09Q_tb24fp.gif" class="box-shadow" alt="our final application" caption="Our final application" >}}
 
 The final code snippet will be provided in a Codepen link at the end of the article.
 
@@ -71,7 +71,7 @@ In our `index.html`, add the default boilerplate and name our title **“How to 
     <title>How to display or hide password</title>
   </head>
   <body>
-
+    
     <script src="app.js"></script> <!-- JavaScript file -->
 
   </body>
@@ -87,7 +87,7 @@ Let’s create our form input so we can have a field to type in our password.
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -95,8 +95,8 @@ Let’s create our form input so we can have a field to type in our password.
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <form>
-        <label for="password">Password</label>
+  <form>
+    <label for="password">Password</label>
         <input type="password" id="password" placeholder="Enter your Password">
         <label for="togglePassword">show password</label>
         <input type="checkbox" id="togglePassword">
@@ -140,8 +140,7 @@ button {
 
 Ensure that your code is saved and when you open up your browser, your page should be looking like this:
 
-{{< figure src="https://cdn-images-1.medium.com/max/800/1*3CUkSR8W1hy3AaH3yMNwiQ.png" alt="HTML + CSS boilerplate" caption="HTML + CSS"  >}}
-
+{{< figure src="https://res.cloudinary.com/peoray/image/upload/v1557016439/1_3CUkSR8W1hy3AaH3yMNwiQ_to1pjd.png" alt="HTML + CSS boilerplate" caption="HTML + CSS"  >}}
 
 Let’s move over to the app.js file and begin to write our JavaScript code.
 

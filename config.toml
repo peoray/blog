@@ -51,7 +51,7 @@ enableInlineShortcodes = true
     # gitlab = "https://gitlab.com/XXX"
     linkedin = "https://www.linkedin.com/in/emmanuel-raymond-b1421b128/"
     # gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/super_raay"
+    twitter = "https://twitter.com/peoray_"
     # stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
     email = "peorayy@gmail.com"
     opengraph = true
@@ -66,25 +66,28 @@ enableInlineShortcodes = true
     exponeaTarget = ""
     exponeaToken = ""
     exponeaTrackVisits = false
-     readingTime = true
+    readingTime = true
     readingTimeText = "Estimated reading time:"
     cloudinary_url = "https://res.cloudinary.com/peoray/image/upload"
 
 
 [Permalinks]
     # post = "/:year/:month/:day/:filename/"
+    post = "/:filename/"
+    # thoughts = "/:filename/"
+    
 
-[[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
+# [[menu.main]]
+    #name = "home"
+    #url = "/"
+    #weight = 1
 
-[[menu.main]]
-    name = "Tech & Tutorials"
-    url = "/tech_tutorials"
-    weight = 2
+# [[menu.main]]
+    #name = "Tech & Tutorials"
+    #url = "/tech_tutorials"
+    #weight = 2
 
-[[menu.main]]
-    name = "personal"
-    url = "/thoughts"
-    weight = 3
+# [[menu.main]]
+    #name = "personal"
+    #url = "/thoughts"
+    #weight = 3

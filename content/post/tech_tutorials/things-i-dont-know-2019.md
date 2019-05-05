@@ -4,8 +4,7 @@ description: "List of things I haven't used"
 date: 2019-01-05T11:33:58+01:00
 # updated: 2019-04-05T11:33:58+01:00
 draft: false
-tags: []
-image: "https://res.cloudinary.com/peoray/image/upload/v1553616586/Things_I_Don_t_Know_as_of_2018_in_Programming_owvrsh.png"
+tags: ["programming"]
 ---
 
 I have been writing code for over two years and looking back, it amazes me the number of things I don't know yet. It's a rat-race trying to catch up with the industry, the more you try hard to catch up, the further you realize you are behind. I want to use this opportunity to list out some programming technologies I don't know.

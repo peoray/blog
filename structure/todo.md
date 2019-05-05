@@ -4,4 +4,4 @@
 
 - Do everything from merged prs
 
-- 
+- Sort image with cloudinary 

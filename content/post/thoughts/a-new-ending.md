@@ -4,7 +4,7 @@ description: "I’m not giving up. I’m just starting over."
 date: 2017-11-13T00:52:30+01:00
 draft: false
 tags: ["Perseverance"]
-image: "https://images.pexels.com/photos/459846/pexels-photo-459846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940#center"
+image: "https://res.cloudinary.com/peoray/image/upload/v1557014849/pexels-photo-459846_avr78k.jpg#center"
 ---
 
 > You can’t go back and make a new start, but you can start right now and make a brand new ending
@@ -22,7 +22,7 @@ trends through tweets, articles and newsletters.
 
 Perhaps, this compulsory break actually is a blessing in disguise. This period made me think about lots of stuff and I learnt a lot about myself. This month will make a year I started learning how to code, looking back I have come a long way but something doesn’t feel right and I dare say it wasn’t a year of fulfillment but one of confusion, lack of planning and many days spent daydreaming about being the next Mark Zuckerberg.
 
-{{< figure src="https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948#center" alt="Mr. bean gif"  caption="[gif source](https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948)">}}
+{{< figure src="https://media1.tenor.com/images/75511c8b551296b9a00a3ac1d98eaaab/tenor.gif?itemid=5602948#center" alt="Mr. bean gif" >}}
 
 The period I lost my laptop made me realize I didn’t have enough practical experience to back up the theoretical knowledge and it kinda left me feeling empty. During this period, I decided to come up with a solid plan, goal and execution road map with much emphasis on practice of course. This means I’m starting right at the very basics again, although this time it will be more like a review still, I would have to go back and learn about HTML all over again and practice with it.
 
@@ -38,11 +38,10 @@ Fast forward after my internship, I got back to school and began to look around 
 
 So far, my programming hobby hasn’t resulted in all that much output. I made simple websites by following tutorials. While this is a good way to learn, it isn’t a good way to become better as you will need to [get out of the coding tutorial rut](https://medium.freecodecamp.org/how-to-dig-yourself-out-of-the-coding-tutorial-rut-7d3b2232f234?source=user_profile---------6----------------) and [start practising on your own](https://dev.to/inidaname/newbie-developers-dont-trust-those-tutorials-1ib).
 
-
-{{< figure src="https://i.pinimg.com/736x/e9/47/13/e9471399cd642d4222a5348e0740f039--starting-over-quotes-new-beginning-quotes.jpg#center" alt="motivation quote"  caption="[Image source](https://i.pinimg.com/736x/e9/47/13/e9471399cd642d4222a5348e0740f039--starting-over-quotes-new-beginning-quotes.jpg)">}}
+{{< cld src="e9471399cd642d4222a5348e0740f039--starting-over-quotes-new-beginning-quotes_ezqb4c.jpg#center" alt="quotes about beginning over" >}}
 
 
 I want to do things right this time around and this is a start. My goal is to become better both as a person and as a developer. To build lots of stuff to solve problems. It is to immerse myself in the act of creation, to challenge myself, to attempt something difficult — if for no other reason than to finish it. I also hope to get back into the habit of blogging again to document my journey. Also, to build [my personal brand as a developer](https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217) and practice [learning how to learn](https://medium.freecodecamp.org/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d) to become better at my skills.
 
 
-{{< figure src="https://i.pinimg.com/736x/98/29/61/9829614be3a612db8c27bfb6a4eabd15--fresh-start-quotes-starting-over-quotes.jpg#center" alt="motivation quote"  caption="[Image source](https://i.pinimg.com/736x/98/29/61/9829614be3a612db8c27bfb6a4eabd15--fresh-start-quotes-starting-over-quotes.jpg)">}}
+{{< cld src="9829614be3a612db8c27bfb6a4eabd15--fresh-start-quotes-starting-over-quotes_bmb8ee.jpg#center" alt="quotes about beginning over" >}}

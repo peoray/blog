@@ -4,7 +4,7 @@ description: "The year I decided to take control of my life!"
 date: 2017-12-31T16:40:49+01:00
 draft: false
 tags: ["Year-In-Review", "Reflections"]
-image: "http://drinkingtea.com/wp-content/uploads/2017/01/10442206-bonne-annee-2017-exemples-de-message-texte-sms-et-citations-de-meilleurs-voeux-2017.jpg"
+image: "https://res.cloudinary.com/peoray/image/upload/v1557015333/original_ra7xil.jpg"
 ---
 
 2107 has been a great year despite many ups and downs, I’m excited about everything that happened and especially the progress I made personally in various aspects of my life. I also managed to learn more about myself and how I handle adversity and setbacks in my life.
@@ -59,7 +59,9 @@ Cheers to an amazing 2017. I’m super excited to get going for 2018 and see how
 
 **Happy New Year!**
 
-![Happy 2018](https://cdn-images-1.medium.com/max/1000/1*WJy_AS421TjitX9MKZjmiQ.jpeg)
+
+{{< cld src="1_WJy_AS421TjitX9MKZjmiQ_smrbjv.jpg#center" alt="2018 image" >}}
+
 
 
 **_Cheers!_**
