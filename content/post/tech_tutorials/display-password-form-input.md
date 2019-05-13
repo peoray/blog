@@ -51,7 +51,7 @@ password-toggle/
 │
 ├── style.css
 │
-├── app.js
+├── main.js
 │
 
 ```
@@ -72,7 +72,7 @@ In our `index.html`, add the default boilerplate and name our title **“How to 
   </head>
   <body>
     
-    <script src="app.js"></script> <!-- JavaScript file -->
+    <script src="main.js"></script> <!-- JavaScript file -->
 
   </body>
 </html>
@@ -102,7 +102,7 @@ Let’s create our form input so we can have a field to type in our password.
         <input type="checkbox" id="togglePassword">
         <button type="button">Submit</button>
     </form>
-    <script src="app.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>
 ```
@@ -188,7 +188,7 @@ togglePassword.addEventListener("change", showOrHidePassword);
 </code>
 </pre>
 
-This is the Codepen that contains the complete code:
+You can find the complete code on this [repo](https://github.com/peoray/toggle-form-password). Also, the Codepen below contains the complete code:
 
 <p data-height="584" data-theme-id="0" data-slug-hash="qyBVmJ" data-default-tab="html,result" data-user="peoray" data-pen-title="How to toggle your password" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/peoray/pen/qyBVmJ/">How to toggle your password</a> by Emmanuel Raymond (<a href="https://codepen.io/peoray">@peoray</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
