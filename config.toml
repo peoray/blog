@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://peoray.com"
 title = "Emmanuel Raymond"
 theme = "ghostwriter"
 languageCode = "en-us"
