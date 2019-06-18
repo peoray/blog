@@ -18,7 +18,7 @@ pygmentsCodeFences = true
 
 enableInlineShortcodes = true
 
-
+ 
 [blackfriday] 
     hrefTargetBlank = true
     plainIDAnchors = true
