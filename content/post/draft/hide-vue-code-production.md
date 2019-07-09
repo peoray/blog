@@ -13,7 +13,7 @@ If you go to developer tools > Sources in Chrome or developer tools > debugger i
 
 Now, if you are building a personal project, maybe for learning purposes or as open source, this might not bother you, but if this is an application that real users will use and might contain sensitive data, then it's risky.
 
-In this article, I will show you how to disable it so your code and data will not be made open and left in the open for hackers to play with your data.
+In this article, I will show you how to disable it so your code and data won't be exposed.
 
 If you used the Vue CLI to create your project, then follow these steps:
 
