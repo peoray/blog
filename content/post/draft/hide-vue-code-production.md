@@ -2,8 +2,8 @@
 title: "How to Hide Vue Code on Production"
 description: "How to disable source map or debug mode in production for Vue.js applications"
 date: 2019-07-09T11:25:37+01:00
-draft: true
-tags: []
+draft: false
+tags: ['vue", "webpack"]
 image: ""
 ---
 
